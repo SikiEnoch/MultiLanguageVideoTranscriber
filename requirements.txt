@@ -1,0 +1,9 @@
+Flask==2.2.5
+Flask-WTF==1.0.1
+Flask-Uploads==0.2.1
+moviepy==1.0.3
+pydub==0.25.1
+openai==0.27.2
+googletrans==4.0.0rc1
+gTTS==2.3.2
+scikit-learn==1.3.0
